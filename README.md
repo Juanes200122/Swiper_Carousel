@@ -15,11 +15,18 @@
       <img src="https://img.shields.io/badge/-@jeacsi.official_022-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jeacsi.official_022?igsh=MWJ6MHRwcnhoZXVxbQ==" alt="Instagram Badge">
     </a>
 </p>
-<p>Formulario con una experiencia de usuario amigable y eficiente, con un diseño moderno y atractivo. Utilizando tecnologías web estándar como HTML, CSS, y JavaScript, este formulario combina funcionalidad con una estética cuidada para asegurar que los usuarios tengan una excelente primera impresión.</p>
+<p>Este proyecto es un ejemplo de un carrusel de imágenes implementado utilizando la librería Swiper. Swiper es una de las librerías de carruseles más populares y versátiles para la web, que proporciona una gran cantidad de opciones y configuraciones para crear carruseles personalizados..</p>
+
+```bash
+    git clone https://github.com/Juanes200122/Swiper_Carousel.git
+    cd Swiper_Carousel
+```
 
 ## <b> Funcionalidad</b>
 <p>Js libreria Swiper</p>
-<img align="right" src="image/gif/swiper_gif.gif" width="450" style="margin-left: 40px;"/>
+<div style="margin: 20px 0;">
+    <img align="right" src="image/gif/swiper_gif.gif" width="400"/>
+</div>
 
 ```JS
     var swiper = new Swiper(".swiper-container", {
