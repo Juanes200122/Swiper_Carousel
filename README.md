@@ -71,3 +71,9 @@
     ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 
 
+## Recursos y Herramientas
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen)
+
+
