@@ -21,10 +21,16 @@
     git clone https://github.com/Juanes200122/Swiper_Carousel.git
     cd Swiper_Carousel
 ```
+<div align="right">
+    
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen)
+
+</div>
 
 ## <b> Funcionalidad</b>
 <p>Js libreria Swiper</p>
-<div style="margin: 20px 0;">
+<div>
     <img align="right" src="image/gif/swiper_gif.gif" width="400"/>
 </div>
 
@@ -71,9 +77,6 @@
     ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 
 
-## Recursos y Herramientas
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen)
 
 
